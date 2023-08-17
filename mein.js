@@ -12,11 +12,12 @@
 // alert(i)
 // }
 
-// let z =1;
-//  while(z<=3){
+// let z =3;
+//  while(z<=1){
 // alert(z)
-//     z++;
+//     z--;
 //  }
+
 
 // let v =1;
 //  do{
